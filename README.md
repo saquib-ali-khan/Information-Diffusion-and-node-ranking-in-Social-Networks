@@ -1,5 +1,5 @@
 # node-importance-in-networks
-This is My implementation in python for research paper as follows:
+This is My implementation in python for the following research paper as a small part of another research work under my lab supervisor as follows:
 "Evaluating the importance of nodes in complex networks:
 Jun Liu a , Qingyu Xiong b,c,∗ , Weiren Shi a , Xin Shi a , Kai Wang a"
 
