@@ -1,10 +1,4 @@
 ## Shapley Value based Top K Influential Nodes Selection
-### As Described by Ramasuri Narayanam and Yadati Narahari, Fellow, IEEE
-
-# Lang: Python 2.7x
-# By: Zafarullah Mahmood
-# Place: New Delhi
-# Last Updated: 15/04/2016
 
 from random import random, shuffle
 import operator
